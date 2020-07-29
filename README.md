@@ -15,7 +15,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 ## Get in touch
 - Twitter: https://twitter.com/trendsttler
-- Personal site: https://katfukui.com/
+- Personal site: https://trendsttler.github.io/
 - IG: http://instagram.com/trend.sttler
 
 
