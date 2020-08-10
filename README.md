@@ -1,6 +1,6 @@
 ### Hi Devs 👋
 
-# <a href="https://trendsttler.github.io/">Karan Soni</a> - @trendsttler
+# <a href="https://trendsttler.github.io/" target="_blank" style="color: #d23a22;">Karan Soni</a> - @trendsttler
 Hi, I'm Karan— a senior product designer working on to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces.
 
 ## My values
@@ -15,7 +15,6 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 ## Get in touch
 - Twitter: https://twitter.com/trendsttler
-- Personal site: https://trendsttler.github.io/
 - IG: http://instagram.com/trend.sttler
 
 - [x] create a post.
