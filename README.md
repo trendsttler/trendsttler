@@ -17,11 +17,6 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 - Twitter: https://twitter.com/trendsttler
 - IG: http://instagram.com/trend.sttler
 
-- [x] create a post.
-- [x] create a page.
-- [x] add images.
-- [ ] published the post.
-
 <!--
 **trendsttler/trendsttler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
