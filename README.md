@@ -1,6 +1,6 @@
 ### Hi Devs 👋
 
-# Karan Soni - @trendsttler
+# <a href="https://trendsttler.github.io/">Karan Soni</a> - @trendsttler
 Hi, I'm Karan— a senior product designer working on to support open source sustainability. Previously worked on the Community & Safety team to help communities grow welcoming and productive spaces.
 
 ## My values
